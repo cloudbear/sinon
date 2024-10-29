@@ -7,7 +7,7 @@
 </h1>
 
 <p align=center>
-    Standalone and test framework agnostic JavaScript test spies, stubs and mocks (pronounced "sigh-non", named after <a href="https://en.wikipedia.org/wiki/Sinon">Sinon, the warrior</a>).
+    Standalone and test framework agnostic JavaScript test spies, stubs and mocks (pronounced "sin-on", named after <a href="https://en.wikipedia.org/wiki/Sinon">Sinon, the warrior</a>).
 </p>
 
 <p align=center>
